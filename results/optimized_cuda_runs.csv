@@ -1,0 +1,2 @@
+Timestamp,Workload,Combinations,Threads per block,Batch size,Batches,Settings measured,GPU seconds,End-to-end seconds,GPU million hashes/sec,Correct
+2026-11-24T18:15:54,lowercase_digits_5,60466176,128,20000000,4,True,0.0988650000654161,0.10005709994584322,611.6034588579506,True
